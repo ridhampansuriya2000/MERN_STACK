@@ -1,0 +1,11 @@
+.container{
+    .w-100{
+        .w-50{
+            box-shadow: 1px 1px 1px 1px #d5d8dbe3;
+            border: unset;
+        }
+        input:focus{
+            outline: none;
+        }
+    }
+}
